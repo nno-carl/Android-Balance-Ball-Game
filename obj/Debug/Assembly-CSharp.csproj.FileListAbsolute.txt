@@ -1,0 +1,2 @@
+E:\Czhenya-GunNiGeQiu\GunNiGeQiu\Gyro_GAME\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\Czhenya-GunNiGeQiu\GunNiGeQiu\Gyro_GAME\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
